@@ -1,6 +1,9 @@
 *{
   box-sizing: border-box;
 }
+input{
+  display: block;
+}
 
 body{
   padding-top: 4rem;
